@@ -29,23 +29,25 @@ body {
     background-color: aqua;
     width: 30px;
     height: 30px;
-    /* border: none; Removes the default CSS styling for the <input> HTML tag in browsers */
     border: 2px solid black; 
+    transition: background-color 0s ease-in, background-color 1s ease-out; /* Instant in, smooth out */
 }
-
 
 #container div:hover {
     background-color: yellow;
+    transition: background-color 0s ease-in; /* No delay for hover */
 }
 
-#btn {
+
+#setBtn, #resetBtn {
     border-radius: 20px;
     background-color: blue;
     color: white;
     font-weight: 700;
     font-size: 18px;
+    
 }
 
-#btn:hover {
+#setBtn:hover, #resetBtn:hover {
     background-color: gray;
 }
