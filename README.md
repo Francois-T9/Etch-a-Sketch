@@ -1,4 +1,4 @@
-# Sign-up form
+# Etch-a-sketch
 Exercise from [_The Odin Project_](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 
 **This project will continue to evolve as I advance in my web development journey.**
