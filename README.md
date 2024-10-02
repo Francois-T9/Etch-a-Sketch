@@ -3,7 +3,7 @@ Exercise from [_The Odin Project_](https://www.theodinproject.com/lessons/founda
 
 **This project will continue to evolve as I advance in my web development journey.**
 
-# Live view of the calculator
+# Live view of the game
 
 🔗 [Etch-a-Sketch game](https://raw.githack.com/Francois-T9/Etch-a-Sketch/main/index.html)
 
